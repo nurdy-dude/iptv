@@ -30,44 +30,44 @@ https://xyzdddd.mizhls.ru/lb/premium596/index.m3u8
 #EXTINF:-1 tvg-id="sky.50" tvg-name="Sky Sport Select" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/50.svg" group-title="New Zealand",Sky Sport Select NZ
 https://xyzdddd.mizhls.ru/lb/premium587/index.m3u8
 
-#EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="Nz" , TVNZ 1
+#EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="New Zealand" , TVNZ 1
 https://i.mjh.nz/.r/tvnz-1.m3u8
 
-#EXTINF:-1 channel-id="mjh-tvnz-2" tvg-id="mjh-tvnz-2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="Nz" , TVNZ 2
+#EXTINF:-1 channel-id="mjh-tvnz-2" tvg-id="mjh-tvnz-2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="New Zealand" , TVNZ 2
 https://i.mjh.nz/.r/tvnz-2.m3u8
 
-#EXTINF:-1 channel-id="mjh-three" tvg-id="mjh-three" tvg-logo="https://i.mjh.nz/.images/three.png" tvg-chno="3" group-title="Nz" , Three
+#EXTINF:-1 channel-id="mjh-three" tvg-id="mjh-three" tvg-logo="https://i.mjh.nz/.images/three.png" tvg-chno="3" group-title="New Zealand" , Three
 https://i.mjh.nz/.r/three.m3u8
 
-#EXTINF:-1 channel-id="mjh-bravo" tvg-id="mjh-bravo" tvg-logo="https://i.mjh.nz/.images/bravo.png" tvg-chno="4" group-title="Nz" , Bravo
+#EXTINF:-1 channel-id="mjh-bravo" tvg-id="mjh-bravo" tvg-logo="https://i.mjh.nz/.images/bravo.png" tvg-chno="4" group-title="New Zealand" , Bravo
 https://i.mjh.nz/.r/bravo.m3u8
 
-#EXTINF:-1 channel-id="mjh-maori-tv" tvg-id="mjh-maori-tv" tvg-logo="https://i.mjh.nz/.images/maori-tv.png" tvg-chno="5" group-title="Nz" , Whakaata Māori
+#EXTINF:-1 channel-id="mjh-maori-tv" tvg-id="mjh-maori-tv" tvg-logo="https://i.mjh.nz/.images/maori-tv.png" tvg-chno="5" group-title="New Zealand" , Whakaata Māori
 https://i.mjh.nz/.r/maori-tv.m3u8
 
-#EXTINF:-1 channel-id="mjh-tvnz-duke" tvg-id="mjh-tvnz-duke" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="Nz" , DUKE
+#EXTINF:-1 channel-id="mjh-tvnz-duke" tvg-id="mjh-tvnz-duke" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="New Zealand" , DUKE
 https://i.mjh.nz/.r/tvnz-duke.m3u8
 
-#EXTINF:-1 channel-id="mjh-eden" tvg-id="mjh-eden" tvg-logo="https://i.mjh.nz/.images/eden.png" tvg-chno="8" group-title="Nz" , eden
+#EXTINF:-1 channel-id="mjh-eden" tvg-id="mjh-eden" tvg-logo="https://i.mjh.nz/.images/eden.png" tvg-chno="8" group-title="New Zealand" , eden
 https://i.mjh.nz/.r/eden.m3u8
 
-#EXTINF:-1 channel-id="mjh-bravo-plus1" tvg-id="mjh-bravo-plus1" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" tvg-chno="9" group-title="Nz" , Bravo PLUS 1
+#EXTINF:-1 channel-id="mjh-bravo-plus1" tvg-id="mjh-bravo-plus1" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" tvg-chno="9" group-title="New Zealand" , Bravo PLUS 1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 
-#EXTINF:-1 channel-id="mjh-three-plus1" tvg-id="mjh-three-plus1" tvg-logo="https://i.mjh.nz/.images/three-plus1.png" tvg-chno="13" group-title="Nz" , ThreePlus1
+#EXTINF:-1 channel-id="mjh-three-plus1" tvg-id="mjh-three-plus1" tvg-logo="https://i.mjh.nz/.images/three-plus1.png" tvg-chno="13" group-title="New Zealand" , ThreePlus1
 https://i.mjh.nz/.r/three-plus1.m3u8
 
-#EXTINF:-1 channel-id="mjh-rush-nz" tvg-id="mjh-rush-nz" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="14" group-title="Nz" , RUSH
+#EXTINF:-1 channel-id="mjh-rush-nz" tvg-id="mjh-rush-nz" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="14" group-title="New Zealand" , RUSH
 https://i.mjh.nz/.r/rush-nz.m3u8
 
-#EXTINF:-1 channel-id="mjh-te-reo" tvg-id="mjh-te-reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="Nz" , Te Reo
+#EXTINF:-1 channel-id="mjh-te-reo" tvg-id="mjh-te-reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="New Zealand" , Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
 
-#EXTINF:-1 channel-id="mjh-prime" tvg-id="mjh-prime" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="15" group-title="Nz" , Sky Open
+#EXTINF:-1 channel-id="mjh-prime" tvg-id="mjh-prime" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="15" group-title="New Zealand" , Sky Open
 https://i.mjh.nz/.r/prime.m3u8
 
-#EXTINF:-1 channel-id="mjh-eden-plus1" tvg-id="mjh-eden-plus1" tvg-logo="https://i.mjh.nz/.images/eden-plus1.png" tvg-chno="18" group-title="Nz" , eden+1
+#EXTINF:-1 channel-id="mjh-eden-plus1" tvg-id="mjh-eden-plus1" tvg-logo="https://i.mjh.nz/.images/eden-plus1.png" tvg-chno="18" group-title="New Zealand" , eden+1
 https://i.mjh.nz/.r/eden-plus1.m3u8
 
-#EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="Nz" , Al Jazeera
+#EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="New Zealand" , Al Jazeera
 https://i.mjh.nz/.r/al-jazeera.m3u8
