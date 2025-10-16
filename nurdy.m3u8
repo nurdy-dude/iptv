@@ -1,35 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="sky.51" tvg-name="Sky Sport 1" tvg-chno="51" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/51.svg" group-title="New Zealand",Sky Sport 1 NZ
-https://xyzdddd.mizhls.ru/lb/premium588/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.52" tvg-name="Sky Sport 2" tvg-chno="52" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/52.svg" group-title="New Zealand",Sky Sport 2 NZ
-https://xyzdddd.mizhls.ru/lb/premium589/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.53" tvg-name="Sky Sport 3" tvg-chno="53" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/53.svg" group-title="New Zealand",Sky Sport 3 NZ
-https://xyzdddd.mizhls.ru/lb/premium590/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.54" tvg-name="Sky Sport 4" tvg-chno="54" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/54.svg" group-title="New Zealand",Sky Sport 4 NZ
-https://xyzdddd.mizhls.ru/lb/premium591/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.55" tvg-name="Sky Sport 5" tvg-chno="55" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/55.svg" group-title="New Zealand",Sky Sport 5 NZ
-https://xyzdddd.mizhls.ru/lb/premium592/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.56" tvg-name="Sky Sport 6" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/56.svg" group-title="New Zealand",Sky Sport 6 NZ
-https://xyzdddd.mizhls.ru/lb/premium593/index.m3u8
-
-#EXTINF:-1 tvg-id=sky.57" tvg-name="Sky Sport 7" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/57.svg" group-title="New Zealand",Sky Sport 7 NZ
-https://xyzdddd.mizhls.ru/lb/premium594/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.58" tvg-name="Sky Sport 8" tvg-chno="58" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/58.svg" group-title="New Zealand",Sky Sport 8 NZ
-https://xyzdddd.mizhls.ru/lb/premium595/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.59" tvg-name="Sky Sport 9" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/59.svg" group-title="New Zealand",Sky Sport 9 NZ
-https://xyzdddd.mizhls.ru/lb/premium596/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.50" tvg-name="Sky Sport Select" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/nurdy-dude/iptv/refs/heads/main/logo/50.svg" group-title="New Zealand",Sky Sport Select NZ
-https://xyzdddd.mizhls.ru/lb/premium587/index.m3u8
-
 #EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="New Zealand" , TVNZ 1
 https://i.mjh.nz/.r/tvnz-1.m3u8
 
